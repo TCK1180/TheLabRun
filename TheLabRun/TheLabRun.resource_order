@@ -1,6 +1,9 @@
 {
   "FolderOrderSettings": [
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
+    {"name":"Control","order":18,"path":"folders/Control.yy",},
+    {"name":"Entity","order":17,"path":"folders/Entity.yy",},
+    {"name":"Player","order":1,"path":"folders/Entity/Player.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
@@ -15,8 +18,6 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Player","order":2,"path":"folders/Entity/Enemy/Player.yy",},
-    {"name":"Entity","order":17,"path":"folders/Entity.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
