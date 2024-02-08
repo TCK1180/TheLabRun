@@ -25,5 +25,10 @@
     {"name":"Sprite4","order":4,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"wall","order":3,"path":"objects/wall/wall.yy",},
     {"name":"check_for_player","order":2,"path":"scripts/check_for_player/check_for_player.yy",},
+    {"name":"Restart","order":1,"path":"rooms/Restart/Restart.yy",},
+    {"name":"Spr_barrier","order":3,"path":"sprites/Spr_barrier/Spr_barrier.yy",},
+    {"name":"O_game","order":2,"path":"objects/O_game/O_game.yy",},
+    {"name":"Obj_Barrier","order":5,"path":"objects/Obj_Barrier/Obj_Barrier.yy",},
+    {"name":"restart","order":3,"path":"objects/restart/restart.yy",},
   ],
 }

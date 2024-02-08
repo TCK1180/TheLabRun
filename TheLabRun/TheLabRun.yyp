@@ -45,12 +45,17 @@
     {"id":{"name":"wall","path":"objects/wall/wall.yy",},},
     {"id":{"name":"check_for_player","path":"scripts/check_for_player/check_for_player.yy",},},
     {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},},
+    {"id":{"name":"Restart","path":"rooms/Restart/Restart.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"Spr_barrier","path":"sprites/Spr_barrier/Spr_barrier.yy",},},
     {"id":{"name":"O_game","path":"objects/O_game/O_game.yy",},},
+    {"id":{"name":"Obj_Barrier","path":"objects/Obj_Barrier/Obj_Barrier.yy",},},
+    {"id":{"name":"restart","path":"objects/restart/restart.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Restart","path":"rooms/Restart/Restart.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

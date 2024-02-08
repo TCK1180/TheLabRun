@@ -1,7 +1,12 @@
 
-y=y-spd;
 
 
+
+
+
+if (!place_meeting(x,y-spd,Obj_Barrier)){
+	y=y-spd;
+}
 
 
 
