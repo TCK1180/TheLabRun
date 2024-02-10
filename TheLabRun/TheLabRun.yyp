@@ -42,6 +42,7 @@
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"healthbar","path":"sprites/healthbar/healthbar.yy",},},
     {"id":{"name":"wall","path":"objects/wall/wall.yy",},},
     {"id":{"name":"check_for_player","path":"scripts/check_for_player/check_for_player.yy",},},
     {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},},
@@ -51,6 +52,8 @@
     {"id":{"name":"O_game","path":"objects/O_game/O_game.yy",},},
     {"id":{"name":"Obj_Barrier","path":"objects/Obj_Barrier/Obj_Barrier.yy",},},
     {"id":{"name":"restart","path":"objects/restart/restart.yy",},},
+    {"id":{"name":"lights","path":"sprites/lights/lights.yy",},},
+    {"id":{"name":"Healthbar_border","path":"sprites/Healthbar_border/Healthbar_border.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

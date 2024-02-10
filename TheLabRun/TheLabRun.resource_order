@@ -23,6 +23,7 @@
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite4","order":4,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"healthbar","order":4,"path":"sprites/healthbar/healthbar.yy",},
     {"name":"wall","order":3,"path":"objects/wall/wall.yy",},
     {"name":"check_for_player","order":2,"path":"scripts/check_for_player/check_for_player.yy",},
     {"name":"Restart","order":1,"path":"rooms/Restart/Restart.yy",},
@@ -30,5 +31,7 @@
     {"name":"O_game","order":2,"path":"objects/O_game/O_game.yy",},
     {"name":"Obj_Barrier","order":5,"path":"objects/Obj_Barrier/Obj_Barrier.yy",},
     {"name":"restart","order":3,"path":"objects/restart/restart.yy",},
+    {"name":"lights","order":6,"path":"sprites/lights/lights.yy",},
+    {"name":"Healthbar_border","order":5,"path":"sprites/Healthbar_border/Healthbar_border.yy",},
   ],
 }
