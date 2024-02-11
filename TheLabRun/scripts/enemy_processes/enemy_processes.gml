@@ -1,3 +1,11 @@
+function check_facing() {
+	//check which way we are moving and set facing
+	
+	var _facing = sign(x-xp);
+	if _facing != 0 facing = _facing;
+	
+}
+
 function check_for_player(){
 	var _distance = distance_to_object(Player);
 	//can we make a path to the player
@@ -24,10 +32,22 @@ function check_for_player(){
    }
    }			
 }
-	
-	
-	
-	
-	
-	
-
+function enemy_anim(){
+		switch(state) {
+		case states.IDLE:
+			sprite_index = s_idle;
+		break;
+		case states.MOVE:
+			sprite_index = s_walk;
+		break;
+		case states.ATTACK:
+			sprite_index = s_attack;
+		break;
+		case states.DEAD:
+			sprite_index = s_dead;
+		break;
+	}
+	//update previous position
+	xp = x;
+	yp = y;
+}

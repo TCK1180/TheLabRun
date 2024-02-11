@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "check_for_player",
+  "name": "enemy_processes",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
   },
 }
