@@ -3,8 +3,8 @@
 function check_fire(){
 
 	if mouse_check_button(mb_right){
-		if can_fire {
-			can_fire = false;
+		if can_attack {
+			can_attack = false;
 			alarm[1] = fire_rate;
 			
 			var _dir = point_direction(x, y, mouse_x, mouse_y);

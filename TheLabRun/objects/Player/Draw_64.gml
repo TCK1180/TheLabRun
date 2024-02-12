@@ -7,7 +7,7 @@ draw_set_color(c_black);
 draw_text(200,100,"Lives: "+string(global.Lives));
 
 
-draw_sprite_stretched(healthbar,0,healthbar_x,healthbar_y,(global.Lives/global.Lives_Max)*healthbar_width,healthbar_height);
+draw_sprite_stretched(healthbar,0,healthbar_x-4.0,healthbar_y,(global.Lives/global.Lives_Max)*healthbar_width,healthbar_height);
 
 draw_sprite(Healthbar_border,0,healthbar_x,healthbar_y);
 

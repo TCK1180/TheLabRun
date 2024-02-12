@@ -45,7 +45,9 @@ function is_dead(){
 			return true;
 		}
 		
-	}return true;
+	}else  return true;
+	
+	
 	
 }
 

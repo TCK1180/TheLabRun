@@ -11,6 +11,17 @@ s_attack = s_enemy_attack;
 s_dead = s_enemy_dead;
 s_hurt = s_enemy_hurt;
 
+//frame when damage is dealth
+attack_frame=3;
+can_attack=true;
+// can we attack
+attack_cooldown=75;
+//delay
+damage=2;
+//damage
+knockback_time=10;
+//how long we knockback player for
+
 alert_dis = 200;
 
 //attack distance

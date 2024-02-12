@@ -14,6 +14,8 @@ switch(state) {
 	break;
 	case states.ATTACK:
 		calc_entity_movement();
+		perform_attack();
+		
 		enemy_anim();
 	break;
 	case states.DEAD:

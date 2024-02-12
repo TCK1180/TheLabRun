@@ -43,6 +43,7 @@ function check_for_player(){
 	   else {
 			if _distance<=attack_distance{
 				path_end();
+				state=states.ATTACK;
 	  
    
    }
@@ -71,6 +72,25 @@ function enemy_anim(){
 	xp = x;
 	yp = y;
 }
+
+function perform_attack()
+{
+	if image_index>=attack_frame and can_attak{
+	can_attak=false;
+	alarm[1]=attack_cooldown;
+	
+	var _dir=point_direction(x,y,Player.x,Player.y);
+	var _xx=x+lengthdir_x(attack_dis,_dir);
+	var _yy=y+lengthdir_y(attack_dis,_dir);
+	var _inst=instance_create_layer(_xx,_yy,"Instances",_enemy_hitbox);
+	_inst.owner_id=id;
+	_inst.damage=damage;
+	_inst.knockback_time=knockback_time;
+	
+	}
+}
+
+	
 
 function show_hurt() {
 	//show the hurt sprite when being knocked back	

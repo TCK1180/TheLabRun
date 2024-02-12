@@ -14,7 +14,7 @@ healthbar_x=100;
 healthbar_y=100;
 
 fire_rate = 30;
-can_fire = true;
+can_attack = true;
 lightning_speed = 8;
 
 
