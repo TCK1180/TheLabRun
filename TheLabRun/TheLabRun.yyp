@@ -60,6 +60,7 @@
     {"id":{"name":"o_lightning","path":"objects/o_lightning/o_lightning.yy",},},
     {"id":{"name":"Obj_Barrier","path":"objects/Obj_Barrier/Obj_Barrier.yy",},},
     {"id":{"name":"restart","path":"objects/restart/restart.yy",},},
+    {"id":{"name":"entity_processes","path":"scripts/entity_processes/entity_processes.yy",},},
     {"id":{"name":"s_lightning","path":"sprites/s_lightning/s_lightning.yy",},},
     {"id":{"name":"lights","path":"sprites/lights/lights.yy",},},
     {"id":{"name":"s_enemy_dead","path":"sprites/s_enemy_dead/s_enemy_dead.yy",},},

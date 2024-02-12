@@ -24,7 +24,8 @@ calc_path_delay=30;
 //timer for when we calculate path
 calc_path_timer=irandom(60);
 
-
+hsp = 0;
+vsp = 0;
 
 
 

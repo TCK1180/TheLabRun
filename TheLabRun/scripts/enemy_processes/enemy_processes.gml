@@ -1,9 +1,25 @@
+function calc_entity_movement(){
+	//moves enemy and apply drag
+	
+	//apply movement
+	x += hsp;
+	y += vsp;
+	
+	//slowdown
+	hsp *= global.drag;
+	vsp *= global.drag;
+	
+	check_if_stopped();
+}	
+
+
+
 function check_facing() {
 	//check which way we are moving and set facing
-	
-	var _facing = sign(x-xp);
-	if _facing != 0 facing = _facing;
-	
+	if knockback_time <= 0{
+		var _facing = sign(x-xp);
+		if _facing != 0 facing = _facing;
+	}
 }
 
 function check_for_player(){
@@ -36,9 +52,11 @@ function enemy_anim(){
 		switch(state) {
 		case states.IDLE:
 			sprite_index = s_idle;
+			show_hurt();
 		break;
 		case states.MOVE:
 			sprite_index = s_walk;
+			show_hurt();
 		break;
 		case states.ATTACK:
 			sprite_index = s_attack;
@@ -47,7 +65,15 @@ function enemy_anim(){
 			sprite_index = s_dead;
 		break;
 	}
+	//set depth
+	depth = -bbox_bottom;
 	//update previous position
 	xp = x;
 	yp = y;
+}
+
+function show_hurt() {
+	//show the hurt sprite when being knocked back	
+	
+	if knockback_time-- > 0 sprite_index = s_hurt;
 }

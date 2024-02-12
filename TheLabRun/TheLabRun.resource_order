@@ -39,6 +39,7 @@
     {"name":"o_lightning","order":1,"path":"objects/o_lightning/o_lightning.yy",},
     {"name":"Obj_Barrier","order":5,"path":"objects/Obj_Barrier/Obj_Barrier.yy",},
     {"name":"restart","order":3,"path":"objects/restart/restart.yy",},
+    {"name":"entity_processes","order":4,"path":"scripts/entity_processes/entity_processes.yy",},
     {"name":"s_lightning","order":2,"path":"sprites/s_lightning/s_lightning.yy",},
     {"name":"lights","order":6,"path":"sprites/lights/lights.yy",},
     {"name":"s_enemy_dead","order":5,"path":"sprites/s_enemy_dead/s_enemy_dead.yy",},
