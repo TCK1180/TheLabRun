@@ -19,6 +19,7 @@ function damage_entity(_tid, _sid, _damage, _time){
 		calc_path_delay = _time;
 		alert = true;
 		knockback_time = _time;
+		ALARM[HURT]=hurt_time;
 		return _dead;
 	
 	}

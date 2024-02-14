@@ -1,7 +1,9 @@
 
 //macros
 //alarms
-#macro CAN_ATTACK		0
+#macro CAN_ATTACK		1
+#macro HURT             0
+
 
 //emums
 enum states {

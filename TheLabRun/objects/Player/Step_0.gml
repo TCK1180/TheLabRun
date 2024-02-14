@@ -5,13 +5,10 @@ var v_move=gamepad_axis_value(0,gp_axislv);
 
 check_fire();
 
-//x+=h_move*5;
-
-//y+=v_move*5;
 
 
 
-
+//controller movement 
 if (!place_meeting(x,y,Obj_Barrier)){
 	x+=h_move*5;
 	
