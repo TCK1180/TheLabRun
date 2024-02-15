@@ -7,7 +7,7 @@ var _h = ceil(room_height/TS);
 //create motion planing grid
 global.mp_grid=mp_grid_create(0,0,_w,_h,TS,TS);
 //ADDS SOLID INSTANCES TO THE GRID
-mp_grid_add_instances(global.mp_grid,wall,true); // false= solid shape collider
+mp_grid_add_instances(global.mp_grid,wall,false); // false= solid shape collider
 
 
 

@@ -20,7 +20,7 @@ lightning_speed = 8;
 
 //player attack variables
 
-
+damage = 5;
 
 
 

@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_sword",
-  "eventList": [],
+  "name": "Player_hitbox",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":2,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "s_player_attack",
-    "path": "sprites/s_player_attack/s_player_attack.yy",
+    "name": "Spr_player_hitbox",
+    "path": "sprites/Spr_player_hitbox/Spr_player_hitbox.yy",
   },
   "spriteMaskId": null,
   "visible": true,

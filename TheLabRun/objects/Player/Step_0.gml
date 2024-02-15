@@ -18,7 +18,8 @@ else if (!place_meeting(x,y,Obj_Barrier)){
 	y-=v_move*5;
 }
 
-//atack function 
+
+
 
 
 
