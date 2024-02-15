@@ -18,6 +18,9 @@ can_attack = true;
 lightning_speed = 8;
 
 
+//player attack variables
+
+
 
 
 

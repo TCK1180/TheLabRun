@@ -4,6 +4,7 @@ event_inherited();
 
 hp_max = 15;
 hp = hp_max;
+global.enemyhealth = hp;
 
 s_idle = s_enemy_idle;
 s_walk = s_enemy_walk;

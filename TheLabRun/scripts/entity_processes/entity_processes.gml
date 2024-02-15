@@ -33,6 +33,7 @@ function is_dead(){
 			state = states.DEAD;
 			hp = 0;
 			image_index = 0;
+			instance_destroy(self);
 			//set death sound
 			switch(object_index){
 				default:

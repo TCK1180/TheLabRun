@@ -80,9 +80,9 @@ function perform_attack()
 	alarm[1]=attack_cooldown;
 	
 	var _dir=point_direction(x,y,Player.x,Player.y);
-	var _xx=x+lengthdir_x(attack_dis,_dir);
-	var _yy=y+lengthdir_y(attack_dis,_dir);
-	var _inst=instance_create_layer(_xx,_yy,"Instances",_enemy_hitbox);
+	var _xx=x+lengthdir_x(attack_distance,_dir);
+	var _yy=y+lengthdir_y(attack_distance,_dir);
+	var _inst=instance_create_layer(_xx,_yy,"Instances",o_enemy_hitbox);
 	_inst.owner_id=id;
 	_inst.damage=damage;
 	_inst.knockback_time=knockback_time;
