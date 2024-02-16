@@ -19,5 +19,9 @@ function check_fire(){
 		}
 	
 	}
+	
+        
+       
+	
 
 }

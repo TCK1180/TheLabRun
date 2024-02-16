@@ -25,5 +25,3 @@ else if (!place_meeting(x,y,Obj_Barrier)){
 
 
 
-
-
