@@ -36,7 +36,7 @@
     {"name":"Boss_hitbox_spr","order":10,"path":"sprites/Boss_hitbox_spr/Boss_hitbox_spr.yy",},
     {"name":"s_enemy_attack","order":3,"path":"sprites/s_enemy_attack/s_enemy_attack.yy",},
     {"name":"s_player_attack","order":6,"path":"sprites/s_player_attack/s_player_attack.yy",},
-    {"name":"Boss_attack","order":5,"path":"scripts/Boss_attack/Boss_attack.yy",},
+    {"name":"enemy_fire","order":5,"path":"scripts/enemy_fire/enemy_fire.yy",},
     {"name":"o_enemy_hitbox","order":6,"path":"objects/o_enemy_hitbox/o_enemy_hitbox.yy",},
     {"name":"s_lightning_explode","order":3,"path":"sprites/s_lightning_explode/s_lightning_explode.yy",},
     {"name":"Spr_Boss","order":7,"path":"sprites/Spr_Boss/Spr_Boss.yy",},

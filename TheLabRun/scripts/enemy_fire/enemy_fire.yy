@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "Boss_attack",
+  "name": "enemy_fire",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

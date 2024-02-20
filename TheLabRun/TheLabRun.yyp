@@ -56,7 +56,7 @@
     {"id":{"name":"Boss_hitbox_spr","path":"sprites/Boss_hitbox_spr/Boss_hitbox_spr.yy",},},
     {"id":{"name":"s_enemy_attack","path":"sprites/s_enemy_attack/s_enemy_attack.yy",},},
     {"id":{"name":"s_player_attack","path":"sprites/s_player_attack/s_player_attack.yy",},},
-    {"id":{"name":"Boss_attack","path":"scripts/Boss_attack/Boss_attack.yy",},},
+    {"id":{"name":"enemy_fire","path":"scripts/enemy_fire/enemy_fire.yy",},},
     {"id":{"name":"o_enemy_hitbox","path":"objects/o_enemy_hitbox/o_enemy_hitbox.yy",},},
     {"id":{"name":"s_lightning_explode","path":"sprites/s_lightning_explode/s_lightning_explode.yy",},},
     {"id":{"name":"Spr_Boss","path":"sprites/Spr_Boss/Spr_Boss.yy",},},
