@@ -13,8 +13,6 @@
 	var hitbox= instance_create_depth(hitboxX,hitboxY,depth,Player_hitbox);
 	hitbox.creator=id;
 	hitbox.damage=5;
-	
-	 
 	 
 	 
 }
