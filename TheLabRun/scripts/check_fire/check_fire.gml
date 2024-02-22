@@ -9,7 +9,7 @@ function check_fire(){
 			
 			var _dir = point_direction(x, y, mouse_x, mouse_y);
 			
-			var _inst = instance_create_layer(x, y, "Lightning", o_lightning_Boss);
+			var _inst = instance_create_layer(x, y, "Lightning", o_lightning);
 			with(_inst) {
 				speed = other.lightning_speed;
 				direction = _dir;
