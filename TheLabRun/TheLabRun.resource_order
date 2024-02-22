@@ -16,8 +16,8 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
-    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"TileSets","order":19,"path":"folders/TileSets.yy",},
+    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Player_hitbox","order":7,"path":"objects/Player_hitbox/Player_hitbox.yy",},
