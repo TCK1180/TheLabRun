@@ -12,8 +12,10 @@ if (global.Lives<1)
 }
 
 
-
+//gamepad_set_vibration(0,1,1);
 lightning_die();
+
+
 
 
 

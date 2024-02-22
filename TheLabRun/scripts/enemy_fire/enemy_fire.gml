@@ -9,12 +9,13 @@ function enemyfire(){
 			
 			var _dir = point_direction(x, y, Player.x, Player.y);
 			
-			var _inst = instance_create_layer(x, y, "Lightning", o_lightning);
+			var _inst = instance_create_layer(x, y, "Lightning", o_lightning_Boss);
 			with(_inst) {
 				speed = other.lightning_speed;
 				direction = _dir;
 				image_angle = _dir;
-				owner_id = other;								
+				owner_id = other;	
+				
 			}
 		}
 	}		
