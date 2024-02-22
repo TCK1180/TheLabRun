@@ -84,10 +84,10 @@
     {"id":{"name":"s_enemy_dead","path":"sprites/s_enemy_dead/s_enemy_dead.yy",},},
     {"id":{"name":"s_enemy_hurt","path":"sprites/s_enemy_hurt/s_enemy_hurt.yy",},},
     {"id":{"name":"Healthbar_border","path":"sprites/Healthbar_border/Healthbar_border.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"Restart","path":"rooms/Restart/Restart.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
