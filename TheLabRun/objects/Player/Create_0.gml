@@ -16,7 +16,7 @@ healthbar_y=100;
 fire_rate = 30;
 can_attack = true;
 lightning_speed = 8;
-
+bulletcount=10;
 
 //player attack variables
 

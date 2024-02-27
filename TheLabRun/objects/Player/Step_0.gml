@@ -4,6 +4,7 @@ var h_move= gamepad_axis_value(0,gp_axislh);
 var v_move=gamepad_axis_value(0,gp_axislv);
 
 check_fire();//lightning attack
+
 //controller movement 
 if (!place_meeting(x,y,Obj_Barrier)){
 	
