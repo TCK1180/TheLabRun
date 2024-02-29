@@ -33,6 +33,7 @@
     {"name":"spr_wall","order":4,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"Boss","order":8,"path":"objects/Boss/Boss.yy",},
     {"name":"s_player_idle","order":5,"path":"sprites/s_player_idle/s_player_idle.yy",},
+    {"name":"Collisiontrees","order":23,"path":"tilesets/Collisiontrees/Collisiontrees.yy",},
     {"name":"s_enemy_hitbox","order":7,"path":"sprites/s_enemy_hitbox/s_enemy_hitbox.yy",},
     {"name":"healthbar","order":4,"path":"sprites/healthbar/healthbar.yy",},
     {"name":"walls","order":4,"path":"sprites/walls/walls.yy",},

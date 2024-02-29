@@ -22,6 +22,7 @@ bulletcount=10;
 
 damage = 5;
 
+my_tilemap = layer_tilemap_get_id("Collisiontree"); 
 
 
 

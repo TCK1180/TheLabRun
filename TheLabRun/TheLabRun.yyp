@@ -53,6 +53,7 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"Boss","path":"objects/Boss/Boss.yy",},},
     {"id":{"name":"s_player_idle","path":"sprites/s_player_idle/s_player_idle.yy",},},
+    {"id":{"name":"Collisiontrees","path":"tilesets/Collisiontrees/Collisiontrees.yy",},},
     {"id":{"name":"s_enemy_hitbox","path":"sprites/s_enemy_hitbox/s_enemy_hitbox.yy",},},
     {"id":{"name":"healthbar","path":"sprites/healthbar/healthbar.yy",},},
     {"id":{"name":"walls","path":"sprites/walls/walls.yy",},},
