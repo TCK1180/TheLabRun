@@ -1,4 +1,4 @@
-
+if (global.Lives<6){fire_rate=10;}
 
 
 

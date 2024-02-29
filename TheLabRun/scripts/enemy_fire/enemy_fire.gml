@@ -2,7 +2,7 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function enemyfire(){
 	
-	if (global.Lives>=1){
+	if (global.Live>=1){
 		if can_attack {
 			can_attack = false;
 			alarm[3] = fire_rate;
