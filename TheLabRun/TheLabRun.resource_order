@@ -27,7 +27,7 @@
     {"name":"Menu_Button","order":8,"path":"sprites/Menu_Button/Menu_Button.yy",},
     {"name":"TileSet5","order":21,"path":"tilesets/TileSet5/TileSet5.yy",},
     {"name":"TileSet3","order":19,"path":"tilesets/TileSet3/TileSet3.yy",},
-    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Spr_enemy","order":2,"path":"sprites/Spr_enemy/Spr_enemy.yy",},
     {"name":"o_lightning_explode","order":4,"path":"objects/o_lightning_explode/o_lightning_explode.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"spr_wall","order":4,"path":"sprites/spr_wall/spr_wall.yy",},

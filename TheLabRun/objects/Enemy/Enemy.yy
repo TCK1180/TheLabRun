@@ -37,8 +37,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite3",
-    "path": "sprites/Sprite3/Sprite3.yy",
+    "name": "Spr_enemy",
+    "path": "sprites/Spr_enemy/Spr_enemy.yy",
   },
   "spriteMaskId": null,
   "visible": true,

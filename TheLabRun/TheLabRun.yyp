@@ -46,7 +46,7 @@
     {"id":{"name":"Menu_Button","path":"sprites/Menu_Button/Menu_Button.yy",},},
     {"id":{"name":"TileSet5","path":"tilesets/TileSet5/TileSet5.yy",},},
     {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Spr_enemy","path":"sprites/Spr_enemy/Spr_enemy.yy",},},
     {"id":{"name":"o_lightning_explode","path":"objects/o_lightning_explode/o_lightning_explode.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
