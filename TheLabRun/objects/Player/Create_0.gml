@@ -1,7 +1,7 @@
 
 spd=5;
 
-health = 100;
+//health = 100;
 shield=false;
 
 
