@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":10,"path":"folders/Animation Curves.yy",},
     {"name":"Control","order":14,"path":"folders/Control.yy",},
     {"name":"Entity","order":13,"path":"folders/Entity.yy",},
@@ -18,7 +18,7 @@
     {"name":"TileSets","order":15,"path":"folders/TileSets.yy",},
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
+  "ResourceOrderSettings":[
     {"name":"Player_hitbox","order":7,"path":"objects/Player_hitbox/Player_hitbox.yy",},
     {"name":"bricks","order":2,"path":"sprites/bricks/bricks.yy",},
     {"name":"Spr_player_hitbox","order":9,"path":"sprites/Spr_player_hitbox/Spr_player_hitbox.yy",},
@@ -46,6 +46,7 @@
     {"name":"s_player_attack","order":6,"path":"sprites/s_player_attack/s_player_attack.yy",},
     {"name":"enemy_fire","order":5,"path":"scripts/enemy_fire/enemy_fire.yy",},
     {"name":"props","order":17,"path":"sprites/props/props.yy",},
+    {"name":"Spr_health_boost","order":9,"path":"sprites/Spr_health_boost/Spr_health_boost.yy",},
     {"name":"o_enemy_hitbox","order":6,"path":"objects/o_enemy_hitbox/o_enemy_hitbox.yy",},
     {"name":"s_lightning_explode","order":3,"path":"sprites/s_lightning_explode/s_lightning_explode.yy",},
     {"name":"Spr_Boss","order":7,"path":"sprites/Spr_Boss/Spr_Boss.yy",},
@@ -67,6 +68,7 @@
     {"name":"restart","order":3,"path":"objects/restart/restart.yy",},
     {"name":"TileSet6","order":22,"path":"tilesets/TileSet6/TileSet6.yy",},
     {"name":"entity_processes","order":2,"path":"scripts/entity_processes/entity_processes.yy",},
+    {"name":"Obj_healthboost","order":10,"path":"objects/Obj_healthboost/Obj_healthboost.yy",},
     {"name":"s_lightning","order":2,"path":"sprites/s_lightning/s_lightning.yy",},
     {"name":"Help_button","order":8,"path":"objects/Help_button/Help_button.yy",},
     {"name":"lights","order":6,"path":"sprites/lights/lights.yy",},

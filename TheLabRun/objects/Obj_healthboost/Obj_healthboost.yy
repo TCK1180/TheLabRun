@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"o_lightning_explode",
+  "%Name":"Obj_healthboost",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_lightning_explode",
+  "name":"Obj_healthboost",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player",
-    "path":"folders/Entity/Player.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_lightning_explode",
-    "path":"sprites/s_lightning_explode/s_lightning_explode.yy",
+    "name":"Spr_health_boost",
+    "path":"sprites/Spr_health_boost/Spr_health_boost.yy",
   },
   "spriteMaskId":null,
   "visible":true,

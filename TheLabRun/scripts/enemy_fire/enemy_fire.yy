@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "enemy_fire",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Entity",
-    "path": "folders/Entity.yy",
+  "$GMScript":"",
+  "%Name":"enemy_fire",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enemy_fire",
+  "parent":{
+    "name":"Entity",
+    "path":"folders/Entity.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
