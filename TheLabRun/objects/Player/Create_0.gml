@@ -1,5 +1,5 @@
 
-spd=5;
+spd=4;
 
 //health = 100;
 shield=false;
