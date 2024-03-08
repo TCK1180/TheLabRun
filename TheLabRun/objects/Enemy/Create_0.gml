@@ -13,7 +13,7 @@ s_dead = s_enemy_dead;
 s_hurt = s_enemy_hurt;
 
 //frame when damage is dealth
-attack_frame=3;
+attack_frame=12;
 can_attack=true;
 // can we attack
 attack_cooldown=75;
