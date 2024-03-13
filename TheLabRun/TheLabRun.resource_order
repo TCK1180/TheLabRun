@@ -39,6 +39,7 @@
     {"name":"Level2","order":3,"path":"rooms/Level2/Level2.yy",},
     {"name":"Menu_room","order":2,"path":"rooms/Menu_room/Menu_room.yy",},
     {"name":"Restart","order":1,"path":"rooms/Restart/Restart.yy",},
+    {"name":"Bosslevel","order":4,"path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"check_fire","order":1,"path":"scripts/check_fire/check_fire.yy",},
     {"name":"enemy_fire","order":5,"path":"scripts/enemy_fire/enemy_fire.yy",},
     {"name":"entity_processes","order":2,"path":"scripts/entity_processes/entity_processes.yy",},
