@@ -15,11 +15,20 @@ function calc_entity_movement(){
 
 
 function check_facing() {
-	//check which way we are moving and set facing
-	if knockback_time <= 0{
-		var _facing = sign(x-xp);
-		if _facing != 0 facing = _facing;
-	}
+		//check which way we are moving and set facing
+		
+		if (Player.x>Enemy.x){
+			facing=-1;
+		}
+		
+		else if  (Player.x<Enemy.x){
+			facing=1;}
+		//image_xscale = -1;
+		//image_blend = c_blue;
+		//show_debug_message("Checking facing direction " + string(x))
+		
+
+  
 }
 
 function check_for_player(){

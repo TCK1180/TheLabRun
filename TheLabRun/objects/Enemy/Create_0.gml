@@ -1,4 +1,4 @@
- 
+
 alert = false;
 event_inherited();
 

@@ -6,3 +6,4 @@ if (!place_meeting(x+spd,y,Obj_Barrier)){
 		sprite_index = right_testplayer;
     }
 }
+
