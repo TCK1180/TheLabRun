@@ -1,7 +1,8 @@
 draw_self();
 check_facing();
 if (instance_exists(Obj_healthboost) && other.hp<6){
-	move_towards_point(Obj_healthboost.x,Obj_healthboost.y,2)   
+	move_towards_point(Obj_healthboost.x,Obj_healthboost.y,2)  
+	
 }
 else  {
 	switch(state) {
