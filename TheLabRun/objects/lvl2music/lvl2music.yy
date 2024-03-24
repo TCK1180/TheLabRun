@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"o_musiclvl2",
+  "%Name":"lvl2music",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_musiclvl2",
+  "name":"lvl2music",
   "overriddenProperties":[],
   "parent":{
     "name":"Entity",

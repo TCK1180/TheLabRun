@@ -8,7 +8,6 @@
   "instanceCreationOrder":[
     {"name":"inst_28CB083B","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_5420FE4D","path":"rooms/Bosslevel/Bosslevel.yy",},
-    {"name":"inst_10B82E5","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_19E86C4F","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_7FCBBE17","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_AA33D2F","path":"rooms/Bosslevel/Bosslevel.yy",},
@@ -337,7 +336,8 @@
     {"name":"inst_65FE7847","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_4A9AD589","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_14CBD3B9","path":"rooms/Bosslevel/Bosslevel.yy",},
-    {"name":"inst_2C1134E8","path":"rooms/Bosslevel/Bosslevel.yy",},
+    {"name":"inst_291CB62B","path":"rooms/Bosslevel/Bosslevel.yy",},
+    {"name":"inst_1C41FC9","path":"rooms/Bosslevel/Bosslevel.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -671,15 +671,15 @@
         {"$GMRInstance":"","%Name":"inst_14CBD3B9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_14CBD3B9","objectId":{"name":"wall","path":"objects/wall/wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":180.0,"scaleX":3.6389456,"scaleY":0.061523575,"x":1335.6261,"y":116.24473,},
       ],"layers":[],"name":"Collisions","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":false,},
     {"$GMRInstanceLayer":"","%Name":"trigger","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"","%Name":"inst_2C1134E8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2C1134E8","objectId":{"name":"obj_trigger","path":"objects/obj_trigger/obj_trigger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":12.640625,"scaleY":0.625,"x":851.0,"y":447.0,},
+        {"$GMRInstance":"","%Name":"inst_291CB62B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_291CB62B","objectId":{"name":"obj_attack_trigger","path":"objects/obj_attack_trigger/obj_attack_trigger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":12.5,"scaleY":1.0,"x":864.0,"y":416.0,},
       ],"layers":[],"name":"trigger","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Player","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_28CB083B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_28CB083B","objectId":{"name":"Player","path":"objects/Player/Player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":1184.0,},
-        {"$GMRInstance":"","%Name":"inst_10B82E5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_10B82E5","objectId":{"name":"o_musiclvl3","path":"objects/o_musiclvl3/o_musiclvl3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"","%Name":"inst_19E86C4F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_19E86C4F","objectId":{"name":"Boss","path":"objects/Boss/Boss.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":90.0,"scaleX":1.0,"scaleY":1.0,"x":1224.0,"y":190.0,},
       ],"layers":[],"name":"Player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Mp_grid","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_5420FE4D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5420FE4D","objectId":{"name":"O_game","path":"objects/O_game/O_game.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1824.0,"y":960.0,},
+        {"$GMRInstance":"","%Name":"inst_1C41FC9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1C41FC9","objectId":{"name":"lvl3music","path":"objects/lvl3music/lvl3music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":0.0,},
       ],"layers":[],"name":"Mp_grid","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"props4","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"props4","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":125,"SerialiseWidth":157,"TileCompressedData":[
           -2481,-2147483648,31,3,4,5,-2147483648,3,4,5,42,43,43,-2147483648,42,42,43,3,4,5,-2147483648,3,4,5,42,
