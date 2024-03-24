@@ -32,8 +32,8 @@
   },
   "name":"Fade_In",
   "parent":{
-    "name":"TheLabRun",
-    "path":"TheLabRun.yyp",
+    "name":"Sequences",
+    "path":"folders/Sequences.yy",
   },
   "playback":0,
   "playbackSpeed":60.0,
