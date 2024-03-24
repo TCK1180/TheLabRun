@@ -9,7 +9,7 @@ can_attack = true;
 lightning_speed = 8;
 damage = 5;
 
-
+global.triggered = false;
 
 
 

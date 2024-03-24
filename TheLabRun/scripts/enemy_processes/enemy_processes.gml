@@ -70,6 +70,7 @@ function enemy_anim(){
 		break;
 		case states.ATTACK:
 			sprite_index = s_attack;
+			
 		break;
 		case states.DEAD:
 			sprite_index = s_dead;
@@ -95,6 +96,7 @@ function perform_attack()
 	_inst.owner_id=id;
 	_inst.damage=damage;
 	_inst.knockback_time=knockback_time;
+	
 	
 	}
 }

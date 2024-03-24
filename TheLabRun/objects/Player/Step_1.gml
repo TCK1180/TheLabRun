@@ -2,6 +2,8 @@
 
 
  if(mouse_check_button_pressed(mb_left)){
+	 
+	
 	 var  playerCenterX= x+sprite_width/2;
 	 var  playerCenterY= y+sprite_height/2;
 	 
@@ -13,8 +15,9 @@
 	var hitbox= instance_create_depth(hitboxX,hitboxY,depth,Player_hitbox);
 	hitbox.creator=id;
 	hitbox.damage=5;
-	 
-	 
+	audio_play_sound(sword_arm_2b, 0, false); 
+	
+ 
 }
 
 if (gamepad_button_check_pressed(0, gp_shoulderl)) {
