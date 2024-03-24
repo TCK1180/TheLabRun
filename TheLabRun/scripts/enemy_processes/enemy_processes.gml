@@ -18,11 +18,11 @@ function check_facing() {
 		//check which way we are moving and set facing
 		
 		if (Player.x>Enemy.x){
-			facing=-1;
+			facing=1;
 		}
 		
 		else if  (Player.x<Enemy.x){
-			facing=1;}
+			facing=-1;}
 		//image_xscale = -1;
 		//image_blend = c_blue;
 		//show_debug_message("Checking facing direction " + string(x))

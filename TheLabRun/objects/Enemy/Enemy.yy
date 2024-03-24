@@ -39,8 +39,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"idle_testenemy",
-    "path":"sprites/idle_testenemy/idle_testenemy.yy",
+    "name":"enemy_Idle",
+    "path":"sprites/enemy_Idle/enemy_Idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
