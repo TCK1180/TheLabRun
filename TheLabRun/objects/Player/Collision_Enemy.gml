@@ -14,7 +14,7 @@ if (global.Lives<1)
 	room_goto(Restart)
 }
 
-
+audio_play_sound(enemy_punches, 0, false);
 
 
 

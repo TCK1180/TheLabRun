@@ -24,6 +24,7 @@ else  {
 		calc_entity_movement();
 		perform_attack();
 		
+		
 		enemy_anim();
 	break;
 	case states.DEAD:

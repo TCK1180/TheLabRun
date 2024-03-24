@@ -14,6 +14,7 @@ function check_fire(){
                     direction = _dir;
                     image_angle = _dir;
                     owner_id = other;
+					audio_play_sound(snd_bolt_throw, 0, false);
                 }
                 bulletcount -= 1;
             }
