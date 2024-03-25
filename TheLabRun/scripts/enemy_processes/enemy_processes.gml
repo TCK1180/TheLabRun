@@ -16,12 +16,12 @@ function calc_entity_movement(){
 
 function check_facing() {
 		//check which way we are moving and set facing
-		
-		if (Player.x>Enemy.x){
+		//instance_nearest()
+		if (Player.x>x){
 			facing=1;
 		}
 		
-		else if  (Player.x<Enemy.x){
+		else if  (Player.x<x){
 			facing=-1;}
 		//image_xscale = -1;
 		//image_blend = c_blue;
@@ -96,7 +96,6 @@ function perform_attack()
 	_inst.owner_id=id;
 	_inst.damage=damage;
 	_inst.knockback_time=knockback_time;
-	
 	
 	}
 }

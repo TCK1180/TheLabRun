@@ -15,7 +15,8 @@ function enemyfire(){
 				direction = _dir;
 				image_angle = _dir;
 				owner_id = other;	
-				audio_play_sound(snd_beam, 0, false);//enemy attack sound
+				//if(!audio_is_playing(snd_beam))
+					audio_play_sound(snd_beam, 0, false);//enemy attack sound
 				
 			}
 		}

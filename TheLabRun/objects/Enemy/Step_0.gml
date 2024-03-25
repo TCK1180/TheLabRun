@@ -23,6 +23,8 @@ else  {
 	case states.ATTACK:
 		calc_entity_movement();
 		perform_attack();
+		if(!audio_is_playing(enemy_Sound1))
+			audio_play_sound(enemy_Sound1, 0, false);
 		
 		
 		enemy_anim();

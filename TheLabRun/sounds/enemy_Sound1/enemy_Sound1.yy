@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"enemy_punches",
+  "%Name":"enemy_Sound1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.044898,
-  "name":"enemy_punches",
+  "duration":0.443312,
+  "name":"enemy_Sound1",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"enemy_punches.wav",
+  "soundFile":"enemy_Sound1.wav",
   "type":0,
   "volume":1.0,
 }
