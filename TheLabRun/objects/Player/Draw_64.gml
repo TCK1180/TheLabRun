@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description healthbar
 // You can write your code in this editor
 //draw_self()
 //draw_healthbar(200, 100, 50, 70, 100, c_red, c_green, c_blue, 0, true, true);
@@ -12,10 +12,6 @@ draw_sprite_stretched(healthbar,0,healthbar_x,healthbar_y,min((global.Lives/glob
 draw_sprite(Healthbar_border,0,healthbar_x,healthbar_y);
 
 draw_text(1300,20,bulletcount);
-
-
-
-
 
 
 

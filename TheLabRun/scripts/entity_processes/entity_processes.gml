@@ -34,6 +34,7 @@ function is_dead(){
 			hp = 0;
 			image_index = 0;
 			instance_destroy(self);
+			global.destroyed_count+=1;
 			//set death sound
 			switch(object_index){
 				default:

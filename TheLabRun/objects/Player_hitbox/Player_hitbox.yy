@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_player_hitbox",
-    "path":"sprites/Spr_player_hitbox/Spr_player_hitbox.yy",
+    "name":"bat_swing_spritesheet",
+    "path":"sprites/bat_swing_spritesheet/bat_swing_spritesheet.yy",
   },
   "spriteMaskId":null,
   "visible":true,

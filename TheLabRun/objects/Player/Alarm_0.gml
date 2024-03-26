@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description shield timer
 // You can write your code in this editor
 
 shield=false;

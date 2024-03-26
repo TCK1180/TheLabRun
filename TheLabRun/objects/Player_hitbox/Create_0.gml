@@ -3,7 +3,7 @@
 
 
 creator= noone;
-alarm[2]=5;
+alarm[2]=20;
 damage=5;
 
 

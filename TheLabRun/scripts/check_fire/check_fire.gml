@@ -17,6 +17,7 @@ function check_fire(){
 					audio_play_sound(snd_bolt_throw, 0, false);
                 }
                 bulletcount -= 1;
+				
             }
         }
     } else {

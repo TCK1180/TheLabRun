@@ -21,6 +21,14 @@ else if (!place_meeting(x,y,Obj_Barrier)){
 	y-=v_move*5;
 }
 
+// Step event of the object managing bulletcount
+if (bulletcount <= 0 && !alarm[5]) { // Check if bulletcount is 0 or below and alarm[5] is not already set
+    alarm[5] = room_speed * 10; // Set the alarm to trigger after approximately 20 seconds
+	
+}
+//show_debug_message(bulletcount)
+//show_debug_message(can_attack)
+
 
 
 

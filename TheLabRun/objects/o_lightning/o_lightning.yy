@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_lightning",
-    "path":"sprites/s_lightning/s_lightning.yy",
+    "name":"Lightning_3_128_sheet",
+    "path":"sprites/Lightning_3_128_sheet/Lightning_3_128_sheet.yy",
   },
   "spriteMaskId":null,
   "visible":true,
