@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_lightning_explode",
-    "path":"sprites/s_lightning_explode/s_lightning_explode.yy",
+    "name":"Lightning_explosion",
+    "path":"sprites/Lightning_explosion/Lightning_explosion.yy",
   },
   "spriteMaskId":null,
   "visible":true,

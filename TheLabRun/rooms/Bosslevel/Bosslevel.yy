@@ -8,7 +8,6 @@
   "instanceCreationOrder":[
     {"name":"inst_28CB083B","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_5420FE4D","path":"rooms/Bosslevel/Bosslevel.yy",},
-    {"name":"inst_19E86C4F","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_291CB62B","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_1C41FC9","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_7FCBBE17","path":"rooms/Bosslevel/Bosslevel.yy",},
@@ -330,6 +329,7 @@
     {"name":"inst_4A9AD589","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_14CBD3B9","path":"rooms/Bosslevel/Bosslevel.yy",},
     {"name":"inst_1448F6F4","path":"rooms/Bosslevel/Bosslevel.yy",},
+    {"name":"inst_19E86C4F","path":"rooms/Bosslevel/Bosslevel.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -659,7 +659,7 @@
       ],"layers":[],"name":"trigger","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Player","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_28CB083B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_28CB083B","objectId":{"name":"Player","path":"objects/Player/Player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":1184.0,},
-        {"$GMRInstance":"","%Name":"inst_19E86C4F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_19E86C4F","objectId":{"name":"Boss","path":"objects/Boss/Boss.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":90.0,"scaleX":1.0,"scaleY":1.0,"x":1224.0,"y":190.0,},
+        {"$GMRInstance":"","%Name":"inst_19E86C4F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_19E86C4F","objectId":{"name":"Boss","path":"objects/Boss/Boss.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":1.2612839,"scaleX":1.0,"scaleY":1.0,"x":1263.0,"y":165.0,},
       ],"layers":[],"name":"Player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Mp_grid","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_5420FE4D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5420FE4D","objectId":{"name":"O_game","path":"objects/O_game/O_game.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1824.0,"y":960.0,},
