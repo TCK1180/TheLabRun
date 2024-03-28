@@ -11,11 +11,9 @@ damage = 5;
 
 global.triggered = false;
 
+secondattacktrigger = true;
 
-
-
-
-
+attack=random_range(2,10);
 
 
 

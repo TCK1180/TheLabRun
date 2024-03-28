@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_lightning",
-    "path":"sprites/s_lightning/s_lightning.yy",
+    "name":"boss_lighting",
+    "path":"sprites/boss_lighting/boss_lighting.yy",
   },
   "spriteMaskId":null,
   "visible":true,

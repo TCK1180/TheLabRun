@@ -7,7 +7,7 @@ function lightning_die(){
 	//What happens when the arrow is destroyed
 	
 	speed = 0;
-	instance_change(o_lightning_explode, false);
+	instance_change(o_lightning_explode_boss, false);
 	
 }
 shield=false;
