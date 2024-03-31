@@ -13,9 +13,9 @@ global.triggered = false;
 
 secondattacktrigger = true;
 
-attack=random_range(2,10);
+secondattack=true;
 
-
+alarm[0]=room_speed*10;
 
 
 

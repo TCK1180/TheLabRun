@@ -5,7 +5,7 @@ var v_move=gamepad_axis_value(0,gp_axislv);
 
 check_fire();//lightning attack
 
-
+if (global.Lives<=0){room_goto(Restart)}
 //controller movement 
 if (!place_meeting(x,y,Obj_Barrier)){
 	
