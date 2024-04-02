@@ -11,6 +11,7 @@ if instance_exists(Boss){
 		secondattack=false;
 	}
 }
+show_debug_message(secondattack)
 
 if( global.Live<=0){
 	sprite_index=Angel_red_boss_dead;
@@ -18,10 +19,10 @@ if( global.Live<=0){
 	
 	}
 
-if (global.Live <= 0 and sprite_index == Angel_red_boss_dead and image_index == image_number - 1)
-{
-    instance_destroy();
-}
+//if (global.Live <= 0 and sprite_index == Angel_red_boss_dead and image_index == image_number - 1)
+//{
+  //  instance_destroy();
+//}
 
 
 

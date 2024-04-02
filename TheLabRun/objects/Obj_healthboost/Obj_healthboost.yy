@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_health_boost",
-    "path":"sprites/Spr_health_boost/Spr_health_boost.yy",
+    "name":"HealthPickup",
+    "path":"sprites/HealthPickup/HealthPickup.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -5,6 +5,7 @@ other.hp+=5;
 instance_destroy(self);
 
 audio_play_sound(chest, 0, false);
+effect_create_above(ef_ellipse,x,y,1,c_lime);
 
 
 
