@@ -9,7 +9,7 @@ draw_set_color(c_black);
 
 draw_sprite_stretched(healthbar,0,healthbar_x,healthbar_y,min((global.Lives/global.Lives_Max)*healthbar_width,healthbar_width),healthbar_height);
 
-draw_sprite(Healthbar_border,0,healthbar_x,healthbar_y);
+//draw_sprite(Healthbar_border,0,healthbar_x,healthbar_y);
 
 draw_text(1300,20,bulletcount);
 

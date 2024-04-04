@@ -16,14 +16,7 @@ secondattacktrigger = true;
 secondattack=true;
 
 alarm[0]=room_speed*10;
-
-
-
-
-
-
-
-
-
-
-
+boss_healthbar_width=50;
+boss_healthbar_height=20;
+boss_healthbar_x=500;
+boss_healthbar_y=690;
