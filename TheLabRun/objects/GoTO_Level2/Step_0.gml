@@ -5,5 +5,5 @@ if (!instance_exists(Enemy) and room==Level1)
 {target=Level2;
 
 	TransitionStart(target,Fade_out,Fade_In);
-		room_goto(Level2)
+		//room_goto(Level2)
 }

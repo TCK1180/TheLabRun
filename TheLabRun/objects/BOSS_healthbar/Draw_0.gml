@@ -1,14 +1,13 @@
-/// @description boss healthbar
+/// @description Insert description here
 // You can write your code in this editor
-//draw_sprite_stretched(healthbar_boss,0,boss_healthbar_x,boss_healthbar_y,(global.Live)*boss_healthbar_width,boss_healthbar_width);
 
 var spr= BOSS_NEW_HEALTHBAR;
 var spritewidth = sprite_get_width(spr);
 var spriteHeight= sprite_get_height(spr);
    
    
-   var xPosition= (room_width/2)-500;
-   var yposition=  (750);
+   var xPosition= (300);
+   var yposition=  (200);
    
    
    var xoffset= (xPosition-round(spritewidth/2)+6);

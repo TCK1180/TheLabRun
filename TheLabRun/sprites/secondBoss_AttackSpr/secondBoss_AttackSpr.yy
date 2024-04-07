@@ -35,8 +35,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"TheLabRun",
-    "path":"TheLabRun.yyp",
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

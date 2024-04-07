@@ -1,8 +1,20 @@
-/// @description Insert description here
+/// @description create
 // You can write your code in this editor
 
 shield=false;
 global.Live=10;
+//healthbar variables
+HP_Max=global.Live;
+hp=HP_Max;
+hp_prev=HP_Max;
+
+followtimermax=60;
+followtimer=0;
+
+
+
+
+
 global.Live_Max=10;
 fire_rate = 40;
 can_attack = true;
