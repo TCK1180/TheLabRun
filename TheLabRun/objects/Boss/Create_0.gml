@@ -10,7 +10,7 @@ hp_prev=HP_Max;
 
 followtimermax=60;
 followtimer=0;
-
+/////////////////////////
 
 
 

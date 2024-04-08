@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-scene_text = "This is the introductory scene";
+scene_text =   
+"Objective(1):Get to the lab" 
  
 
 //audio_to_play =  intro;  

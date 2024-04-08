@@ -11,7 +11,7 @@ if ( sprite_index=Boss_redSpr) {
         secondattack = false;
     }
 }
-//show_debug_message(secondattack)
+//show_debug_message(other.hp)
 
 if( global.Live<=0){
 	sprite_index=Angel_red_boss_dead;
