@@ -13,16 +13,18 @@ draw_sprite_stretched(healthbar,0,healthbar_x,healthbar_y,min((global.Lives/glob
 
 draw_text(1300,20,bulletcount);
 
+draw_set_color(barColor);
+draw_rectangle(xv, yv, xv + barWidth, yv + barHeight, true);
+
+var bulletPercentage = clamp(bulletcount / maxBullets, 0, 1);
+var barFillWidth = bulletPercentage * barWidth;
+
+draw_set_color(bgColor);
+draw_rectangle(xv, yv, xv + barFillWidth, yv + barHeight, false);
 
 
 
-
-
-
-
-
-
-
+ 
 
 
 

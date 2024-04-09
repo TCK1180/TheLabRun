@@ -2,5 +2,5 @@
 // You can write your code in this editor
 global.Live-=2;
 other.hp-=2;
-instance_destroy(self);
+lightning_die();
 

@@ -1,7 +1,7 @@
 /// @description boss healthbar
 // You can write your code in this editor
 //draw_sprite_stretched(healthbar_boss,0,boss_healthbar_x,boss_healthbar_y,(global.Live)*boss_healthbar_width,boss_healthbar_width);
-
+if (hp>0){
 var spr= BOSS_NEW_HEALTHBAR;
 var spritewidth = sprite_get_width(spr);
 var spriteHeight= sprite_get_height(spr);
@@ -33,4 +33,4 @@ var spriteHeight= sprite_get_height(spr);
 	
 	for( var i=1; i<markerCount; i++){
 		draw_sprite_ext(healthbar_marker,0,xoffset+(markerofset*i)-1,yoffset,1,1,0,c_white,1)}
-		
+}	

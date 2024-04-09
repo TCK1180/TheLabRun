@@ -15,4 +15,16 @@ bulletcount=10;
 //player attack variables
 damage = 5;
 my_tilemap = layer_tilemap_get_id("Collisiontree"); 
+///lightning bar
+barWidth = 200;  
+barHeight = 20;  
+barMargin = 1100;  
+barMarginY = 100;
+ maxBullets = 10;   
 
+// color variables
+barColor = c_green;  
+bgColor = c_black;    
+
+xv = barMargin;
+yv = barMarginY;

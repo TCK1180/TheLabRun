@@ -190,9 +190,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"Menu_room","path":"rooms/Menu_room/Menu_room.yy",},},
     {"roomId":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
-    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"Bosslevel","path":"rooms/Bosslevel/Bosslevel.yy",},},
     {"roomId":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
     {"roomId":{"name":"Restart","path":"rooms/Restart/Restart.yy",},},

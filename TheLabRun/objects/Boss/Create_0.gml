@@ -14,7 +14,7 @@ followtimer=0;
 
 
 
-
+takeDamage=false;
 global.Live_Max=10;
 fire_rate = 40;
 can_attack = true;

@@ -2,7 +2,13 @@
 // You can write your code in this editor
 
 if keyboard_check_pressed(vk_space) {
-    room_goto_next(); // Skip the scene and proceed to the next room
+   var target=Intro;
+if ( room==Intro)
+{target=Level1;
+
+	TransitionStart(target,Fade_out,Fade_In);
+		
+}
 }
 
 // Text typing effect
