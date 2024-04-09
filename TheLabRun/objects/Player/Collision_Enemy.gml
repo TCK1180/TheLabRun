@@ -11,7 +11,7 @@ if (shield==false){
 }
 if (global.Lives<1)
 {
-	room_goto(Restart)
+	room_goto(Death_screen)
 }
 
 

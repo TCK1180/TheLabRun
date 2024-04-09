@@ -52,6 +52,7 @@
     {"name":"obj_player","order":23,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_title","order":18,"path":"objects/obj_title/obj_title.yy",},
     {"name":"Play_button","order":7,"path":"objects/Play_button/Play_button.yy",},
+    {"name":"PlayAgain_button","order":26,"path":"objects/PlayAgain_button/PlayAgain_button.yy",},
     {"name":"Player_hitbox","order":7,"path":"objects/Player_hitbox/Player_hitbox.yy",},
     {"name":"Quit_button","order":9,"path":"objects/Quit_button/Quit_button.yy",},
     {"name":"quit_buttonred","order":25,"path":"objects/quit_buttonred/quit_buttonred.yy",},

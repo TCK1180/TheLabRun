@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"quit_buttonred",
+  "%Name":"PlayAgain_button",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"quit_buttonred",
+  "name":"PlayAgain_button",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Give up",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Play Again",},
   ],
   "parent":{
     "name":"Objects",
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"End_button1",
-    "path":"sprites/End_button1/End_button1.yy",
+    "name":"Menu_Button",
+    "path":"sprites/Menu_Button/Menu_Button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
