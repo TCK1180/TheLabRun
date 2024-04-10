@@ -24,7 +24,8 @@ barMarginY = 100;
 
 // color variables
 barColor = c_green;  
-bgColor = c_black;    
+bgColor = make_color_rgb(100,270,200) 
 
 xv = barMargin;
 yv = barMarginY;
+ 

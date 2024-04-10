@@ -1,9 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-image_alpha=1;
-
- 
+event_inherited();
+room_goto(Menu_room);
 
 
 
@@ -44,4 +42,12 @@ image_alpha=1;
 
 
 
+
+
+
+
+
+
+// Inherit the parent event
+event_inherited();
 
