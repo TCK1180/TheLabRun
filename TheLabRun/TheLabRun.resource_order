@@ -19,6 +19,7 @@
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"back","order":28,"path":"objects/back/back.yy",},
     {"name":"BOSS_healthbar","order":20,"path":"objects/BOSS_healthbar/BOSS_healthbar.yy",},
     {"name":"Boss_hitbox","order":9,"path":"objects/Boss_hitbox/Boss_hitbox.yy",},
     {"name":"Boss","order":8,"path":"objects/Boss/Boss.yy",},
@@ -27,7 +28,6 @@
     {"name":"GoTO_Level2","order":12,"path":"objects/GoTO_Level2/GoTO_Level2.yy",},
     {"name":"healthabr_border","order":19,"path":"objects/healthabr_border/healthabr_border.yy",},
     {"name":"Help_button","order":8,"path":"objects/Help_button/Help_button.yy",},
-    {"name":"back","order":28,"path":"objects/back/back.yy",},
     {"name":"Intro_scene","order":12,"path":"objects/Intro_scene/Intro_scene.yy",},
     {"name":"lvl1music","order":6,"path":"objects/lvl1music/lvl1music.yy",},
     {"name":"lvl2music","order":7,"path":"objects/lvl2music/lvl2music.yy",},
@@ -76,6 +76,7 @@
     {"name":"macros_enums","order":3,"path":"scripts/macros_enums/macros_enums.yy",},
     {"name":"Transitions","order":4,"path":"scripts/Transitions/Transitions.yy",},
     {"name":"Fade_In","order":1,"path":"sequences/Fade_In/Fade_In.yy",},
+    {"name":"menuClick","order":12,"path":"sounds/menuClick/menuClick.yy",},
     {"name":"chest","order":2,"path":"sounds/chest/chest.yy",},
     {"name":"enemy_Sound1","order":11,"path":"sounds/enemy_Sound1/enemy_Sound1.yy",},
     {"name":"snd_A_Common_Enemy","order":8,"path":"sounds/snd_A_Common_Enemy/snd_A_Common_Enemy.yy",},
