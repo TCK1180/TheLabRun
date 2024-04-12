@@ -1,3 +1,4 @@
+
 draw_self();
 check_facing();
 if (instance_exists(Obj_healthboost) && other.hp<6){
@@ -40,7 +41,7 @@ else  {
 
 image_xscale = -1;
 
-
+show_debug_message(hp)
 
 ///else 
   //  {

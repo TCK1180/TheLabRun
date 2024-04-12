@@ -12,7 +12,11 @@ s_attack = enemy_Attack;
 s_dead = s_enemy_dead;
 s_hurt = Hurt;
 
+shield=false;
+
+
 //frame when damage is dealth
+
 attack_frame=12;
 can_attack=true;
 // can we attack

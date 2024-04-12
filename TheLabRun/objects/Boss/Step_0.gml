@@ -2,7 +2,7 @@ if (global.triggered == true){
 	
 if (global.Lives<6){fire_rate=10;}
 
-   enemyfire();
+   //enemyfire();
    
 }
 if ( sprite_index=Boss_redSpr) {
@@ -11,7 +11,7 @@ if ( sprite_index=Boss_redSpr) {
         secondattack = false;
     }
 }
-//show_debug_message(other.hp)
+ 
 
 if( global.Live<=0){
 	sprite_index=Angel_red_boss_dead;
