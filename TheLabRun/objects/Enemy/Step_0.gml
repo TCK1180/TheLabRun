@@ -1,11 +1,11 @@
 
 draw_self();
 check_facing();
-if (instance_exists(Obj_healthboost) && other.hp<6){
-	move_towards_point(Obj_healthboost.x,Obj_healthboost.y,2)  
+//if (instance_exists(Obj_healthboost) && other.hp<6){
+	//move_towards_point(Obj_healthboost.x,Obj_healthboost.y,2)  
 	
-}
-else  {
+//}
+//else  {
 	switch(state) {
 	case states.IDLE:
 		calc_entity_movement();
@@ -37,7 +37,7 @@ else  {
 }
 
 
-}
+//}
 
 image_xscale = -1;
 

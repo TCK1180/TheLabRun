@@ -11,7 +11,7 @@ draw_sprite_stretched(healthbar,0,healthbar_x,healthbar_y,min((global.Lives/glob
 
 //draw_sprite(Healthbar_border,0,healthbar_x,healthbar_y);
 
-draw_text(1300,20,bulletcount);
+//draw_text(1300,20,bulletcount);
 
 draw_set_color(barColor);
 draw_rectangle(xv, yv, xv + barWidth, yv + barHeight, true);
