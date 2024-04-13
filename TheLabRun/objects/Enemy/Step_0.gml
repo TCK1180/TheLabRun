@@ -41,7 +41,7 @@ check_facing();
 
 image_xscale = -1;
 
-show_debug_message(hp)
+ 
 
 ///else 
   //  {
